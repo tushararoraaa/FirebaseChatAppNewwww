@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940013679542",
+    "project_id": "mylochatapp-b10d3",
+    "storage_bucket": "mylochatapp-b10d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940013679542:android:51f4c63015e930176d4717",
+        "android_client_info": {
+          "package_name": "com.example.firebasechatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFodnLyv7iaDrhtUcDuJOUdV6EJJPodoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
